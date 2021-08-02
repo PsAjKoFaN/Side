@@ -1,0 +1,6 @@
+--// Author Psycho_Fan \\--
+--// Game Treasure Quest \\--
+--// Farming script \\--
+
+
+loadstring(game:HttpGet(('https://pastebin.com/raw/jNg8tNVS'),true))()
